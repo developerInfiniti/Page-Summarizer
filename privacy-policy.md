@@ -109,8 +109,8 @@ Our extension requests the following permissions:
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
 - **Email**: alexeyzelenko@gmail.com
-- **GitHub Issues**: [https://github.com/AlexeyZelenko/Page-Summarizer/issues](https://github.com/AlexeyZelenko/Page-Summarizer/issues)
-- **Website**: [https://alexeyzelenko.github.io/Page-Summarizer/](https://alexeyzelenko.github.io/Page-Summarizer/)
+- **GitHub Issues**: [https://github.com/developerInfiniti/Page-Summarizer/issues](https://github.com/developerInfiniti/Page-Summarizer/issues)
+- **Website**: [https://developerinfiniti.github.io/Page-Summarizer/](https://developerinfiniti.github.io/Page-Summarizer/)
 
 ## Compliance
 
